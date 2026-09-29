@@ -1,0 +1,19 @@
+__pycache__/
+.DS_Store
+.env
+*.csv
+*.tsv
+*.xlsx
+*.jsonl
+*.parquet
+data/
+outputs/
+
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+
+# Public header-only output contract; real exports remain ignored.
+!skills/*/assets/output.csv

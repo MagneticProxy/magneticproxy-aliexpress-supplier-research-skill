@@ -1,0 +1,4 @@
+interface:
+  display_name: "AliExpress Supplier Research"
+  short_description: "Compare supplier offers, variants and shipping costs"
+  default_prompt: "Use $aliexpress-supplier-research to compare my authorized supplier offers and prepare a sourced shortlist."
