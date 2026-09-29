@@ -6,6 +6,12 @@ A supplier shortlist with like-for-like variants, displayed price and shipping c
 
 Compare authorized supplier records now. Live regional observations require an access method that permits the task. This package does not include an AliExpress scraper, a data license or a bypass tool.
 
+
+## Release status
+
+Public preview: package checks and controlled examples are available; live destination coverage remains pending. Read the [dated QA report](QA-2026-09-29.md) before relying on a particular execution path.
+
+
 ## What you get
 
 - A supplier comparison by exact variant, pack size, order quantity and destination.
@@ -70,7 +76,7 @@ An account is required to operate the product. Use available account capacity fi
 
 ### Has the live workflow been verified?
 
-Repository validation and installation checks cover packaging; the worked example uses synthetic inputs. A live workflow requires an authenticated account, an approved sample and an observed final result. See [QA and maintenance](QA.md) for the exact boundary.
+Public preview: package checks and controlled examples are available; live destination coverage remains pending. See the [latest QA evidence](QA-2026-09-29.md) for the observed sample, deliverables and remaining gates. Installation and CI do not establish live destination access.
 
 ## Access and privacy
 
