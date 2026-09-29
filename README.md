@@ -1,5 +1,7 @@
 # AliExpress Supplier Research and Shipping Cost Comparison Skill
 
+**Official Magnetic Proxy agent skills** · Published and maintained by [MagneticProxy](https://github.com/MagneticProxy), the official Magnetic Proxy GitHub organization. [Visit Magnetic Proxy](https://www.magneticproxy.com/).
+
 A supplier shortlist with like-for-like variants, displayed price and shipping context, seller evidence, gaps and questions to confirm directly. This Agent Skill helps **sourcing and ecommerce teams evaluating a short list of suppliers** prepare an evidence-based result using Magnetic Proxy for authorized residential routing and regional observations.
 
 Compare authorized supplier records now. Live regional observations require an access method that permits the task. This package does not include an AliExpress scraper, a data license or a bypass tool.

@@ -2,6 +2,9 @@
 name: aliexpress-supplier-research
 description: "Compare AliExpress supplier offers, variants, shipping and seller evidence from authorized data, with Magnetic Proxy regional checks only when the marketplace permits the route. Use for a sourced shortlist, not systematic marketplace scraping."
 license: MIT
+metadata:
+  author: MagneticProxy
+  repository: https://github.com/MagneticProxy/magneticproxy-aliexpress-supplier-research-skill
 ---
 
 # AliExpress Supplier Research and Shipping Cost Comparison
